@@ -1,0 +1,407 @@
+﻿date,role,employment_type,role_grouped,rating,location
+2025-03-26,Apple Specialist,현직자,Product / Design,5.0,Sulzbach
+2025-03-26,Apple Specialist,현직자,Product / Design,5.0,Sulzbach
+2025-03-26,Operations Specialist,전직자,Product / Design,3.0,
+2025-03-25,Sales Specialist,전직자,Product / Design,5.0,"Staten Island, NY"
+2025-03-25,Specialist,전직자,Product / Design,4.0,"Bloomington, MN"
+2025-03-25,Project Manager,전직자,Management / PM,4.0,"San Marcos, TX"
+2025-03-24,Specialist,전직자,Product / Design,4.0,"Boston, MA"
+2025-03-24,Delivery Driver,전직자,Others,5.0,Canada
+2025-03-23,Volt Temp,전직자,Others,5.0,"Sacramento, CA"
+2025-03-23,At Home Advisor,전직자,Customer Support,5.0,Remote
+2025-03-21,Technical IOS Advisor,전직자,Customer Support,4.0,Remote
+2025-03-21,Sales Specialist,전직자,Product / Design,4.0,"Edison, NJ"
+2025-03-18,Specialist,전직자,Product / Design,5.0,"Southlake, TX"
+2025-03-18,Sr. Advisor,현직자,Customer Support,5.0,Remote
+2025-03-17,Engineer,전직자,Engineering,4.0,
+2025-03-17,Phone Representative,현직자,Retail / Sales,5.0,
+2025-03-17,Phone Representative,현직자,Retail / Sales,5.0,
+2025-03-14,iPhone Repair Technician,전직자,Engineering,1.0,"New Albany, IN"
+2025-03-14,Sales Specialist,전직자,Product / Design,1.0,"Glasgow City Centre, Glasgow"
+2025-03-13,Specialist,전직자,Product / Design,5.0,
+2025-03-12,Desktop Support Engineer,전직자,Engineering,4.0,"Sunnyvale, CA"
+2025-03-12,Sales Expert,전직자,Retail / Sales,4.0,"Syracuse, NY"
+2025-03-12,Especialista en ventas,전직자,Product / Design,5.0,
+2025-03-11,Manager,전직자,Management / PM,4.0,"Los Angeles, CA"
+2025-03-10,UX Designer,전직자,Product / Design,5.0,California
+2025-03-09,Sales and Customer Service Specialist,현직자,Product / Design,5.0,"Waterloo, ON"
+2025-03-08,Call Center Customer Service Representative,전직자,Customer Support,5.0,"Arizona City, AZ"
+2025-03-07,Manager,현직자,Management / PM,5.0,Dublin
+2025-03-07,Specialist,전직자,Product / Design,5.0,"Calgary, AB"
+2025-03-06,Apple service,전직자,Customer Support,5.0,"Bellevue, WA"
+2025-03-06,AppleCare,전직자,Customer Support,3.0,"Ocala, FL"
+2025-03-06,AppleCare,전직자,Customer Support,3.0,"Ocala, FL"
+2025-03-06,Technical Support,전직자,Customer Support,2.0,Remote
+2025-03-05,Sales Assistant,전직자,Retail / Sales,5.0,
+2025-03-04,Technical Specialist II,전직자,Product / Design,4.0,"Grand Rapids, MI"
+2025-03-04,Machine Learning Engineer,전직자,Engineering,4.0,"Seattle, WA"
+2025-03-03,Specialist,현직자,Product / Design,5.0,"Carlsbad, CA"
+2025-03-03,Sales Representative,전직자,Retail / Sales,5.0,Remote
+2025-03-03,Seasonal Product Specialist,전직자,Product / Design,5.0,"Short Hills, NJ"
+2025-02-28,Specialist,전직자,Product / Design,5.0,Southampton
+2025-02-28,Advertising/Partner Marketing Finance Geo Lead | WW Sr. Financial Analyst,현직자,Management / PM,5.0,"Cupertino, CA"
+2025-02-27,Specialist,전직자,Product / Design,5.0,"New York, NY"
+2025-02-27,Spécialiste,전직자,Others,1.0,Saint-Laurent-du-Var (06)
+2025-02-26,Sales Assistant,전직자,Retail / Sales,5.0,"Birmingham, West Midlands"
+2025-02-26,Genius,현직자,Customer Support,4.0,"Paramus, NJ"
+2025-02-26,T2 media services,전직자,Product / Design,2.0,Remote
+2025-02-26,Advisor Concentrix,현직자,Customer Support,1.0,"Farmington Hills, MI 48331"
+2025-02-25,Technical Support,전직자,Customer Support,4.0,"New York, NY"
+2025-02-25,asesor de ventas,현직자,Others,4.0,"Culiacán, Sin."
+2025-02-25,Customer Service,전직자,Customer Support,5.0,New South Wales
+2025-02-24,Lead Hardware Engineer,현직자,Engineering,4.0,"Cupertino, CA"
+2025-02-24,Specialist,전직자,Product / Design,5.0,"Houston, TX"
+2025-02-24,Specialist,전직자,Product / Design,5.0,"Houston, TX"
+2025-02-24,Coordinadora de Mercadotecnia,전직자,Others,4.0,Ciudad de México
+2025-02-23,Editor,전직자,IT / Infrastructure,5.0,Tokyo
+2025-02-23,Expert,전직자,Expert,5.0,"Midvale, UT"
+2025-02-23,Student,전직자,Others,5.0,"London, KY"
+2025-02-23,vr engineer,전직자,Engineering,5.0,"Cupertino, CA"
+2025-02-21,Sales Consultant,전직자,Retail / Sales,5.0,"London, ON"
+2025-02-20,Cashier,현직자,Retail / Sales,5.0,"Dallas, TX"
+2025-02-20,Intern,전직자,Internship,5.0,SUNNYVALE
+2025-02-20,Product Zone Specialist,전직자,Product / Design,5.0,"Columbus, OH"
+2025-02-20,Project Manager,현직자,Management / PM,4.0,"New York, NY"
+2025-02-19,Technical Specialist,현직자,Product / Design,5.0,"Cambridge, MA"
+2025-02-19,Sales Associate,전직자,Customer Support,4.0,"Glendale, AZ"
+2025-02-19,App Reviewer,전직자,Others,3.0,California
+2025-02-18,Sales Associate,전직자,Customer Support,3.0,"Saskatoon, SK"
+2025-02-17,Engineer,전직자,Engineering,1.0,Connecticut
+2025-02-16,Project Manager,전직자,Management / PM,5.0,"Cupertino, CA"
+2025-02-16,Repair Engineer,전직자,Engineering,5.0,"London, Greater London"
+2025-02-15,Video Specialist,전직자,Product / Design,5.0,"Austin, TX"
+2025-02-15,Apple Support Advisor,전직자,Customer Support,4.0,"Carson City, NV"
+2025-02-14,AppleCare At-Home Advisor Australia,전직자,Customer Support,2.0,Australia
+2025-02-14,AppleCare At-Home Advisor Australia,전직자,Customer Support,2.0,Australia
+2025-02-14,At home advisor,전직자,Customer Support,5.0,Remote
+2025-02-13,Senior Project Manager for SAP,현직자,Management / PM,5.0,"Austin, TX"
+2025-02-13,Family Room Specialist,전직자,Product / Design,5.0,Houston
+2025-02-12,Business Administrator,현직자,IT / Infrastructure,4.0,"Austin, TX"
+2025-02-12,Maps Field Operator/Certified Installer,전직자,Others,2.0,
+2025-02-12,Customer Service Representative,현직자,Customer Support,4.0,"Austin, TX"
+2025-02-12,Customer Support Specialist,전직자,Product / Design,5.0,"Austin, TX"
+2025-02-11,Specialist,전직자,Product / Design,3.0,"Littleton, CO"
+2025-02-09,Sales Lead,현직자,Retail / Sales,5.0,"Troy, MI"
+2025-02-08,Specialist,전직자,Product / Design,5.0,"New York, NY"
+2025-02-08,556 director,전직자,Management / PM,5.0,"Iowa City, IA"
+2025-02-06,At Home Advisor,전직자,Customer Support,4.0,Remote
+2025-02-06,Analyst,전직자,Finance / Analyst,5.0,"Cupertino, CA"
+2025-02-05,Sales Specialist,전직자,Product / Design,5.0,"Staten Island, NY"
+2025-02-05,Sales Associate,전직자,Customer Support,4.0,"Cerritos, CA"
+2025-02-05,Technical Support Representative,현직자,Customer Support,3.0,"Elk Grove, CA"
+2025-01-31,Area Sales Manager,전직자,Retail / Sales,4.0,"Malay Canyon, AZ"
+2025-01-30,Operations Specialist,현직자,Product / Design,4.0,"London, Greater London"
+2025-01-29,Specialist,전직자,Product / Design,5.0,"Elmhurst, NY"
+2025-01-29,Technical Support Representative,전직자,Customer Support,2.0,Remote
+2025-01-29,Technical Support Representative,전직자,Customer Support,2.0,Remote
+2025-01-29,Tier 2 Advisor,현직자,Customer Support,2.0,Home based
+2025-01-28,At Home Advisor,전직자,Customer Support,5.0,Georgia
+2025-01-27,Apple Maps QA,전직자,Engineering,4.0,"Cupertino, CA"
+2025-01-26,Business Analyst,전직자,Finance / Analyst,4.0,"New York, NY"
+2025-01-26,Specialist,전직자,Product / Design,4.0,"Kansas City, MO"
+2025-01-24,Specialist,현직자,Product / Design,4.0,Canada
+2025-01-24,Genius,전직자,Customer Support,4.0,
+2025-01-24,Technical Support Advisor,현직자,Customer Support,2.0,"Austin, TX"
+2025-01-24,Retail Specialist,전직자,Product / Design,4.0,"Manchester, Greater Manchester"
+2025-01-23,Sales Specialist,전직자,Product / Design,4.0,"Orlando, FL"
+2025-01-23,Specialist,전직자,Product / Design,3.0,"Edinburgh, City of Edinburgh"
+2025-01-22,Customer Support Specialist,전직자,Product / Design,1.0,"Tallahassee, FL"
+2025-01-22,Project Coordinator,전직자,Management / PM,4.0,Corowa NSW
+2025-01-21,Product Specialist,전직자,Product / Design,5.0,"New York, NY"
+2025-01-20,consultant,전직자,Others,4.0,Shanghai
+2025-01-19,Product Specialist/Sales,현직자,Product / Design,5.0,"Tukwila, WA"
+2025-01-19,Senior Technician,현직자,Engineering,4.0,"Austin, TX"
+2025-01-19,Part-time Genius Bar Technical Expert,전직자,Customer Support,5.0,"New York, NY"
+2025-01-19,Tier 1 Support,현직자,Customer Support,3.0,AHA
+2025-01-18,Technical Specialist,전직자,Product / Design,4.0,"Santa Barbara, CA"
+2025-01-18,Technical Specialist,전직자,Product / Design,4.0,"Santa Barbara, CA"
+2025-01-18,Assembly Operator,전직자,Others,5.0,"Cork, Ireland"
+2025-01-17,Executive Chef,현직자,Others,5.0,"Los Angeles, CA"
+2025-01-17,Software Engineer Intern,전직자,Engineering,5.0,"Austin, TX"
+2025-01-17,Technical Specialist,전직자,Product / Design,5.0,Lieusaint (77)
+2025-01-16,Customer Service Representative,전직자,Customer Support,5.0,Remote
+2025-01-15,Product Specialist,전직자,Product / Design,5.0,"Broomfield, CO"
+2025-01-15,Technical Writer/Editor,전직자,IT / Infrastructure,5.0,"Austin, TX"
+2025-01-14,Genius,전직자,Customer Support,5.0,"Paramus, NJ"
+2025-01-13,Operations Specialist,전직자,Product / Design,1.0,"Jacksonville, FL"
+2025-01-13,Technical Specialist,전직자,Product / Design,4.0,New York State
+2025-01-10,Senior Advisor,전직자,Customer Support,5.0,"Elk Grove, CA"
+2025-01-10,Specialist,현직자,Product / Design,5.0,"University Park, TX"
+2025-01-07,Great company,현직자,Others,5.0,Texas
+2025-01-07,Project Manager,전직자,Management / PM,5.0,Remote
+2025-01-07,Genius Admin | Back of House | Visuals Team-Member | Specialist,전직자,Product / Design,4.0,"Salt Lake City, UT"
+2025-01-06,Mechatronics Engineer,전직자,Engineering,5.0,California
+2025-01-06,Technician,전직자,Engineering,5.0,Los angeles
+2025-01-06,Especialista,현직자,Product / Design,3.0,"Madrid, Madrid provincia"
+2025-01-06,Product Specialist,현직자,Product / Design,4.0,"Markham, ON"
+2025-01-06,Planner,전직자,Others,3.0,Chinatown
+2025-01-06,Planner,전직자,Others,3.0,Chinatown
+2025-01-06,Specialist,전직자,Product / Design,5.0,"Leeds, West Yorkshire"
+2025-01-02,Specialist,현직자,Product / Design,4.0,"Brighton, East Sussex"
+2024-12-31,Na,전직자,Others,5.0,"Brandon, FL"
+2024-12-31,Technical Support Advisor,전직자,Customer Support,5.0,"Elk Grove, CA"
+2024-12-30,Forklift Operator,전직자,Others,5.0,United States
+2024-12-30,At Home Advisor,전직자,Customer Support,5.0,Remote
+2024-12-29,Creative Pro,전직자,Product / Design,4.0,"Charleston, SC"
+2024-12-29,Customer Service Specialist,전직자,Product / Design,3.0,"Birmingham, West Midlands"
+2024-12-28,Specialist,현직자,Product / Design,4.0,"New York, NY"
+2024-12-28,Sales Associate,전직자,Customer Support,3.0,"Delhi, NY"
+2024-12-28,Partner Relations Coordinator,전직자,Management / PM,5.0,"Austin, TX"
+2024-12-27,Specialist,현직자,Product / Design,4.0,"Virginia Beach, VA"
+2024-12-25,Cusomeive,전직자,Others,4.0,Texas
+2024-12-23,Technical Specialist,현직자,Product / Design,5.0,"Avalon, GA"
+2024-12-22,Store Product Specialist,전직자,Product / Design,1.0,"Oklahoma City, OK"
+2024-12-19,Mac+ Senior Advisor,전직자,Customer Support,3.0,Michigan
+2024-12-18,Product Specialist,전직자,Product / Design,4.0,"Bellevue, WA"
+2024-12-18,Technical Support,전직자,Customer Support,4.0,"Greenwich, CT"
+2024-12-14,Customer Service,현직자,Customer Support,5.0,"Cork, County Cork"
+2024-12-13,Technician,전직자,Engineering,5.0,Florida
+2024-12-13,Technician,전직자,Engineering,5.0,Florida
+2024-12-12,Technical Expert,전직자,Expert,2.0,"Naperville, IL"
+2024-12-12,Expert,현직자,Expert,4.0,"Las Vegas, NV"
+2024-12-11,Sales Specalist,현직자,Retail / Sales,5.0,"Palm Desert, CA"
+2024-12-09,Sales Associate,전직자,Customer Support,1.0,"Nashville, TN"
+2024-12-09,AHA,전직자,Others,4.0,"Austin, TX"
+2024-12-07,Apple,현직자,Others,3.0,Lisboa
+2024-12-06,Senior Advisor,전직자,Customer Support,4.0,Home based
+2024-12-06,Sales Associate,전직자,Customer Support,4.0,Ohio
+2024-12-05,Manager,전직자,Management / PM,5.0,"New York, NY"
+2024-12-05,Retail Specialist,전직자,Product / Design,5.0,"Albany, NY"
+2024-12-05,Expert,전직자,Expert,1.0,Berlin
+2024-12-04,Analyst,현직자,Finance / Analyst,4.0,"San Diego, CA"
+2024-12-02,Sr. Program Manager,전직자,Management / PM,4.0,"Cupertino, CA"
+2024-12-02,Specialist,전직자,Product / Design,4.0,"Toronto, OH"
+2024-12-01,Technical Specialist,전직자,Product / Design,4.0,"Virginia Beach, VA"
+2024-12-01,Specialist,현직자,Product / Design,5.0,"Birmingham, West Midlands"
+2024-12-01,Genius,현직자,Customer Support,4.0,"Berkeley, CA"
+2024-11-29,Technical Support Representative,전직자,Customer Support,1.0,Texas
+2024-11-27,Soporte Técnico,전직자,Others,4.0,"Monterrey, N. L."
+2024-11-27,Manager,전직자,Management / PM,5.0,Los angeles
+2024-11-27,Manager,전직자,Management / PM,5.0,Los angeles
+2024-11-27,Respite Care Provider,전직자,IT / Infrastructure,1.0,"Paris, TN"
+2024-11-26,Field Design Engineer,전직자,Engineering,5.0,"Cupertino, CA"
+2024-11-26,Intern,전직자,Internship,4.0,"Irvine, CA"
+2024-11-25,Technical Specialist,현직자,Product / Design,4.0,"London, Greater London"
+2024-11-23,Associate,전직자,Customer Support,5.0,"New York, NY"
+2024-11-23,Software Developer,현직자,Engineering,5.0,New Jersey
+2024-11-22,Store Leader,현직자,Retail / Sales,5.0,California
+2024-11-21,Technical Specialist,전직자,Product / Design,5.0,"New York, NY"
+2024-11-20,Sales Associate/Cashier,전직자,Customer Support,4.0,"Boulder, CO"
+2024-11-20,Spécialiste,현직자,Others,4.0,Paris (75)
+2024-11-19,Specialist,전직자,Product / Design,3.0,"Toronto, ON"
+2024-11-19,asesor de ventas,전직자,Others,2.0,bus
+2024-11-19,Tier 1 Technical Support,전직자,Customer Support,5.0,"Cary, NC"
+2024-11-17,Sales Professional,전직자,Retail / Sales,4.0,"Houston, TX"
+2024-11-17,Product Sales Specialist,현직자,Product / Design,4.0,Southampton
+2024-11-17,Specialist,전직자,Product / Design,4.0,
+2024-11-17,Spécialiste,전직자,Others,4.0,Paris (75)
+2024-11-15,Tier 2 Technical Support Specialist,전직자,Product / Design,2.0,Remote
+2024-11-13,Customer Support Representative,전직자,Customer Support,2.0,cork
+2024-11-13,Customer Support Representative,전직자,Customer Support,2.0,cork
+2024-11-13,Specialist,전직자,Product / Design,3.0,"The grove, CA"
+2024-11-12,Floor Staff,전직자,Others,3.0,"Cork, County Cork"
+2024-11-12,Customer Service Specialist/Remote,현직자,Product / Design,3.0,"Austin, TX"
+2024-11-10,Project Manager,전직자,Management / PM,4.0,California
+2024-11-10,Customer Service Representative,전직자,Customer Support,1.0,Remote
+2024-11-08,Specialist,전직자,Product / Design,5.0,"Boca Raton, FL"
+2024-11-08,Specialist,전직자,Product / Design,4.0,Charlestown NSW
+2024-11-07,Expert,현직자,Expert,5.0,"Waterloo, ON"
+2024-11-07,Customer Service Advisor,현직자,Customer Support,4.0,"Cardiff, Cardiff"
+2024-11-07,AppleCare At-Home Advisor,전직자,Customer Support,5.0,Remote
+2024-11-06,Specialist,전직자,Product / Design,4.0,"Burlingame, CA"
+2024-11-03,Sales Specialist,전직자,Product / Design,3.0,"Stratford, Greater London"
+2024-11-01,Sales Associate,현직자,Customer Support,5.0,New Jersey
+2024-11-01,Technical Specialist,전직자,Product / Design,5.0,"Charlotte, NC"
+2024-11-01,Analyst,전직자,Finance / Analyst,3.0,Singapore
+2024-10-31,Customer Experience Specialist & Technical Support Specialist,전직자,Product / Design,5.0,Remote
+2024-10-31,Genius,전직자,Customer Support,3.0,"Fair Oaks, VA"
+2024-10-31,カスタマーサポート,전직자,Others,5.0,在宅
+2024-10-30,Technical Support,전직자,Customer Support,2.0,"Orland Park, IL"
+2024-10-30,AppleCare Advisor,현직자,Customer Support,5.0,Remote
+2024-10-30,AppleCare Advisor,현직자,Customer Support,5.0,Remote
+2024-10-28,Yes,전직자,Others,5.0,"Naranjo, Provincia de Alajuela"
+2024-10-27,Technical Expert,현직자,Expert,5.0,"Surrey, BC"
+2024-10-27,Sales Associate,전직자,Customer Support,5.0,"Woodcliff Lake, NJ"
+2024-10-25,Genius,전직자,Customer Support,5.0,"Glendale, CA"
+2024-10-24,Merchandiser,전직자,Others,5.0,"Cupertino, CA"
+2024-10-24,Annotation Analyst,전직자,Finance / Analyst,2.0,"Cork, County Cork"
+2024-10-23,Specialist,전직자,Product / Design,4.0,"Cerritos, CA"
+2024-10-23,Genius,현직자,Customer Support,1.0,"South Windsor, CT"
+2024-10-22,Technical Expert,현직자,Expert,5.0,"San Diego, CA"
+2024-10-22,Customer Service Representative,전직자,Customer Support,4.0,"Sacramento, CA"
+2024-10-21,Technical Expert,전직자,Expert,4.0,"Germantown, TN"
+2024-10-21,Sales Specialist,현직자,Product / Design,4.0,"Tigard, OR"
+2024-10-20,Regional Manager,현직자,Management / PM,4.0,"Seattle, WA"
+2024-10-20,Specialist,전직자,Product / Design,4.0,"Houston, TX"
+2024-10-18,Linux System Administrator,전직자,Product / Design,3.0,"Cupertino, CA"
+2024-10-18,Technical Expert,전직자,Expert,5.0,Bristol
+2024-10-18,Expert,현직자,Expert,3.0,"Long Island, NY"
+2024-10-18,Marketing,현직자,Marketing,4.0,Singapore
+2024-10-16,Tech Support Specialist,전직자,Product / Design,5.0,Remote
+2024-10-16,Specialist,현직자,Product / Design,5.0,Bristol
+2024-10-16,Specialist,현직자,Product / Design,5.0,Bristol
+2024-10-16,Customer Service Representative,전직자,Customer Support,1.0,Θεσσαλονίκη
+2024-10-16,yes,현직자,Others,2.0,"New York, NY"
+2024-10-16,Caretaker,전직자,Others,2.0,"Las Vegas, NV"
+2024-10-15,Specialist,현직자,Product / Design,5.0,Singapore
+2024-10-15,Technical Support Agent,현직자,Customer Support,2.0,"Cork, County Cork"
+2024-10-14,Sales Specialist,현직자,Product / Design,5.0,"Boise, ID"
+2024-10-14,Product Zone Specialist,전직자,Product / Design,5.0,"Woodcliff Lake, NJ"
+2024-10-14,Technical Specialist,전직자,Product / Design,3.0,Birmingham
+2024-10-13,Sales Specialist,전직자,Product / Design,4.0,"Greensboro, NC"
+2024-10-13,Editor,현직자,IT / Infrastructure,5.0,"Austin, TX"
+2024-10-12,iOS Technical Support,현직자,Customer Support,5.0,Remote
+2024-10-12,Technician,전직자,Engineering,1.0,Washington State
+2024-10-11,Customer Service Specialist,현직자,Product / Design,4.0,Virtual
+2024-10-11,Technical Support,전직자,Customer Support,3.0,"San Francisco, CA"
+2024-10-10,Genius,전직자,Customer Support,3.0,"South Huntington, NY"
+2024-10-10,Technical Specialist,현직자,Product / Design,5.0,"Seattle, WA"
+2024-10-10,"Technical Specialist, Genius Admin",전직자,Product / Design,5.0,"Buffalo, NY"
+2024-10-09,Senior Software Engineer,현직자,Engineering,5.0,"Cupertino, CA"
+2024-10-09,Technical Specialist,현직자,Product / Design,5.0,"Canoga Park, CA"
+2024-10-09,Technical Specialist III,전직자,Product / Design,5.0,"Manhattan Beach, CA"
+2024-10-09,Technical Specialist III,전직자,Product / Design,5.0,"Manhattan Beach, CA"
+2024-10-09,Genius,전직자,Customer Support,3.0,"Orlando, FL"
+2024-10-08,Vulnerability Management Engineer,전직자,Engineering,1.0,"Sunnyvale, CA"
+2024-10-08,Technical Lead,전직자,Management / PM,4.0,"Boston, MA"
+2024-10-07,Operations Specialist,현직자,Product / Design,4.0,"Cupertino, CA"
+2024-10-06,Sales Representative,현직자,Retail / Sales,5.0,"Charleston, SC"
+2024-10-06,Operations Specialist,전직자,Product / Design,4.0,"San Antonio, TX"
+2024-10-04,Executive,전직자,Others,5.0,Klang
+2024-10-04,Manager,전직자,Management / PM,3.0,San Diego
+2024-10-03,Recruiter,전직자,Product / Design,4.0,California
+2024-10-03,College at home advisor,전직자,Customer Support,4.0,Remote
+2024-10-03,Mentor,현직자,Others,4.0,Remote
+2024-10-01,Software Engineer Intern,전직자,Engineering,3.0,California
+2024-10-01,Operations Specialist,전직자,Product / Design,5.0,"Portland, OR"
+2024-10-01,Store Associate,전직자,Customer Support,5.0,university
+2024-10-01,Sales Associate,전직자,Customer Support,3.0,"Marathon, ON"
+2024-09-30,Soporte Técnico,전직자,Others,5.0,"San Luis Potosí, S. L. P."
+2024-09-29,Specialist,현직자,Product / Design,5.0,Trafford
+2024-09-28,Genius Bar Technician,전직자,Engineering,1.0,"Santa Barbara, CA"
+2024-09-28,asesor de ventas,전직자,Others,3.0,"Guadalajara, Jal."
+2024-09-27,Planner,전직자,Others,3.0,"Singapur, PR"
+2024-09-27,Planner,전직자,Others,3.0,"Singapur, PR"
+2024-09-26,Sales Assistant,현직자,Retail / Sales,2.0,"Cork, County Cork"
+2024-09-26,Specialist,현직자,Product / Design,2.0,Plymouth
+2024-09-25,Project Manager,현직자,Management / PM,5.0,"Santa Clara, CA"
+2024-09-25,Visual Designer,현직자,Product / Design,4.0,"Cupertino, CA"
+2024-09-25,Business Development Manager,현직자,Management / PM,5.0,"Los Angeles, CA"
+2024-09-24,Supervisor,전직자,Management / PM,3.0,California
+2024-09-24,Planner,현직자,Others,3.0,California
+2024-09-24,Specialist,전직자,Product / Design,5.0,"Markham, on"
+2024-09-24,better than you,전직자,Others,1.0,anywhere
+2024-09-23,Specialist,전직자,Product / Design,5.0,"Aventura, FL"
+2024-09-23,Analyst,현직자,Finance / Analyst,2.0,"Austin, TX"
+2024-09-23,Red Zone Specialist,전직자,Product / Design,3.0,"New York, NY"
+2024-09-22,Operations Specialist,전직자,Product / Design,5.0,"Sydney, FL"
+2024-09-22,Customer Service Assistant,전직자,Customer Support,5.0,"Newcastle upon Tyne, Tyne and Wear"
+2024-09-22,Research Scientist,현직자,Others,5.0,"Cupertino, CA"
+2024-09-22,Specialist,전직자,Product / Design,3.0,"London, Greater London"
+2024-09-22,Tech Specialist,현직자,Product / Design,3.0,"Orland Park, IL"
+2024-09-21,Software Engineer,현직자,Engineering,5.0,"Austin, TX"
+2024-09-20,Systems Engineer,현직자,Engineering,4.0,California
+2024-09-19,Driver,전직자,Others,5.0,on the road
+2024-09-19,Driver,전직자,Others,5.0,on the road
+2024-09-18,Developer program support,전직자,Engineering,3.0,"Austin, TX"
+2024-09-18,Carpe Facto Advisor,현직자,Customer Support,5.0,"Elk Grove, CA"
+2024-09-18,Access Control Specialist,전직자,Product / Design,5.0,"Mountain View, CA"
+2024-09-18,Sales Associate,현직자,Customer Support,5.0,"Londonderry, NH"
+2024-09-18,Lead Apple Solutions Consultant,현직자,Engineering,4.0,"Atlanta, GA"
+2024-09-18,Technical Specialist and Product Zone Sales,현직자,Product / Design,5.0,"Novi, MI"
+2024-09-18,Customer Service Representative,전직자,Customer Support,4.0,"Boca Raton, FL"
+2024-09-17,Specialist,전직자,Product / Design,4.0,"Honolulu, HI"
+2024-09-16,Specialist,현직자,Product / Design,4.0,"Montpellier, VI"
+2024-09-16,Specialist,전직자,Product / Design,4.0,"Dunwoody, GA"
+2024-09-16,Specialist,현직자,Product / Design,4.0,"Birmingham, West Midlands"
+2024-09-16,Marketing Intern,전직자,Marketing,5.0,South Carolina
+2024-09-13,Specialista,현직자,Product / Design,5.0,Emilia-Romagna
+2024-09-12,Specialist,전직자,Product / Design,1.0,"Albany, NY"
+2024-09-11,Customer Service,전직자,Customer Support,2.0,California
+2024-09-11,Specialist,전직자,Product / Design,5.0,"Leicester, Leicestershire"
+2024-09-11,iOS Engineer,전직자,Engineering,1.0,"Austin, TX"
+2024-09-11,Specialist,전직자,Product / Design,5.0,Italy
+2024-09-10,Engineer,현직자,Engineering,5.0,"Cupertino, CA"
+2024-09-10,Specialist,전직자,Product / Design,5.0,"Paris, KY"
+2024-09-10,Specialist,전직자,Product / Design,5.0,"Paris, KY"
+2024-09-09,Assistant,전직자,Others,3.0,"Milan, MI"
+2024-09-09,Technical Support,현직자,Customer Support,5.0,"Orlando, FL"
+2024-09-09,Spécialiste,전직자,Others,5.0,Montpellier (34)
+2024-09-09,Senior Advisor,현직자,Customer Support,5.0,Remote
+2024-09-09,Senior Technical Support Advisor,현직자,Customer Support,5.0,"Austin, TX"
+2024-09-06,Technical Support Specialist,현직자,Product / Design,5.0,"Elk Grove, CA"
+2024-09-06,Technical Specialist,전직자,Product / Design,5.0,"Garden City, NY"
+2024-09-05,Genius,전직자,Customer Support,5.0,Florida
+2024-09-04,Consultant,현직자,Others,4.0,"Brooklyn, NY"
+2024-09-04,Account Manager,현직자,Management / PM,3.0,Remote
+2024-09-02,Customer Service Representative,전직자,Customer Support,4.0,"Phoenix, AZ"
+2024-09-01,Technical Specialist,현직자,Product / Design,4.0,California
+2024-09-01,Technical Support,현직자,Customer Support,5.0,"Salem, NH"
+2024-08-30,Wireless Analysts,전직자,Finance / Analyst,4.0,"Sunnyvale, CA"
+2024-08-30,Employee,현직자,Others,5.0,Georgia
+2024-08-30,Technical Specialist,전직자,Product / Design,3.0,"Cincinnati, OH"
+2024-08-29,Operator,전직자,Others,5.0,"Cork, County Cork"
+2024-08-29,Sales Associate,전직자,Customer Support,5.0,New Jersey
+2024-08-29,AI/ML Annotation Analyst,현직자,Finance / Analyst,3.0,"Cork, Ireland"
+2024-08-29,AI/ML Annotation Analyst,현직자,Finance / Analyst,3.0,"Cork, Ireland"
+2024-08-28,Senior Technical Specialist,현직자,Product / Design,5.0,"Ireland, IN"
+2024-08-27,Annotation Analyst,전직자,Finance / Analyst,3.0,"La Jolla, CA"
+2024-08-27,Specialist,현직자,Product / Design,5.0,Illinois
+2024-08-27,アドバイザー,현직자,Others,4.0,東京都 世田谷区
+2024-08-27,asesor de ventas,전직자,Others,4.0,"Cholula, Pue."
+2024-08-27,Team Member,전직자,Others,4.0,"London, Greater London"
+2024-08-26,Sacker,현직자,Others,3.0,"Ontario, CA"
+2024-08-26,Make Ready Technician,현직자,Engineering,5.0,"Chicago, IL"
+2024-08-24,Support Tech,전직자,Customer Support,3.0,"Atlanta, GA"
+2024-08-24,Technical Expert,전직자,Expert,2.0,"Paramus, NJ"
+2024-08-23,Manager,전직자,Management / PM,5.0,"New York, NY"
+2024-08-23,Genius Admin,현직자,Customer Support,2.0,"Santa Clara, CA"
+2024-08-22,"Seasonal Specialist Denver,Colorado",현직자,Product / Design,5.0,"Denver, CO"
+2024-08-22,Customer Relations Specialist,현직자,Product / Design,5.0,"Miami, FL"
+2024-08-22,Operations Specialist,전직자,Product / Design,5.0,"San Francisco, CA"
+2024-08-21,Genius,전직자,Customer Support,3.0,Ontario
+2024-08-21,Developer Support,현직자,Engineering,4.0,"Ireland, IN"
+2024-08-21,Technical Support,전직자,Customer Support,3.0,"Elk Grove, CA"
+2024-08-21,Technical Expert,전직자,Expert,3.0,"Chicago, IL"
+2024-08-20,Software Developer,전직자,Engineering,5.0,"Calgary, AB"
+2024-08-20,Software Developer,전직자,Engineering,5.0,"Calgary, AB"
+2024-08-20,Genius,전직자,Customer Support,5.0,"London, Greater London"
+2024-08-19,IT Technician,전직자,Engineering,5.0,Remote
+2024-08-19,Software Engineer,현직자,Engineering,1.0,"Cupertino, CA"
+2024-08-19,Product Zone Specialist,전직자,Product / Design,3.0,"Toronto, ON"
+2024-08-19,Retail Specialist,전직자,Product / Design,3.0,"Nashua, NH"
+2024-08-17,Inventory Specialist,전직자,Product / Design,5.0,"Toronto, ON"
+2024-08-16,Sales Associate,전직자,Customer Support,5.0,"Dedham, MA"
+2024-08-15,Chef,전직자,Others,4.0,"Cupertino, CA"
+2024-08-15,Tech Specialist,전직자,Product / Design,2.0,Glasgow Scotland
+2024-08-15,"It doesn't matter the position, it's important to be efficient",현직자,IT / Infrastructure,5.0,USA NEW YORK CITY
+2024-08-15,Retail Sales Associate,전직자,Customer Support,5.0,"Los Angeles, CA"
+2024-08-14,Intern,전직자,Internship,2.0,"San Diego, CA"
+2024-08-14,Specialist,전직자,Product / Design,5.0,"New York, NY"
+2024-08-14,iPhone Hardware Engineer,전직자,Engineering,5.0,"Cupertino, CA"
+2024-08-13,Data Quality Analyst,현직자,Finance / Analyst,4.0,Remote
+2024-08-12,Risk Manager,전직자,Management / PM,5.0,"San Antonio, TX"
+2024-08-12,Product Specialist,현직자,Product / Design,3.0,"Yonkers, NY"
+2024-08-12,Technical Support,전직자,Customer Support,5.0,"Austin, TX"
+2024-08-11,Technical Support,전직자,Customer Support,4.0,"Columbus, OH"
+2024-08-11,Specialist,전직자,Product / Design,1.0,"San Francisco Bay Area, CA"
+2024-08-11,Specialist,전직자,Product / Design,1.0,"San Francisco Bay Area, CA"
+2024-08-10,Product Zone Specialist,전직자,Product / Design,5.0,"King of Prussia, PA"
+2024-08-09,Specialist,전직자,Product / Design,4.0,"Nashua, NH"
+2024-08-09,Floor Staff,전직자,Others,5.0,"Newark, DE"
+2024-08-09,engineer,전직자,Engineering,4.0,"Silicon Valley, CA"
+2024-08-09,Specialist,전직자,Product / Design,5.0,Polopark MB
+2024-08-09,Sales Representative,현직자,Retail / Sales,5.0,"Los Alamitos, CA"
+2024-08-09,Senior Technical Advisor,현직자,Customer Support,5.0,"Austin, TX"
+2024-08-08,Support Technician,전직자,Engineering,4.0,Remote
+2024-08-07,Client Advisor,전직자,Customer Support,5.0,"Usabachi, Chih."
+2024-08-06,General Manager,전직자,Management / PM,5.0,"New York, NY"
+2024-08-05,Specialist,전직자,Product / Design,1.0,"Orio al Serio, Lombardia"
+2024-08-05,AppleCare Advisor,전직자,Customer Support,5.0,"Elk Grove, CA"
+2024-08-05,Product zone specialist,전직자,Product / Design,4.0,"Norwich, Norfolk"
+2024-08-04,Vente,전직자,Others,4.0,"Genève, GE"
+2024-08-03,Client Advisor,현직자,Customer Support,5.0,"Roma, Lazio"
+2024-08-03,Lead,현직자,Management / PM,5.0,"New York, NY"
+2024-08-02,Tech,전직자,Others,1.0,"England, OK"
+2024-08-01,Quality Control Technician,전직자,Engineering,5.0,"Elk Grove, CA"
+2024-08-01,Senior Technical Advisor,전직자,Customer Support,5.0,Remote
